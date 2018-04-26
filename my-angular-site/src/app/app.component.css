@@ -1,0 +1,28 @@
+p {
+  font-family: Lato;
+}
+
+h1{
+  background-color: cyan;
+}
+.wrapper{
+  display: flex;
+  flex-direction: column;
+}
+.nav{
+  display: flex;
+  padding: 20px;
+  background-color: tan;
+  
+  
+}
+.nav-items{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+
+.main{
+  background-color: yellow;
+  
+}
